@@ -1,0 +1,26 @@
+Set your template to the following color hue so the script can convert them properly.
+The hues are darkest to lightest.
+Currenly, only dark version are generated.
+
+===[ DARK ]===
+---| BG HUE |---
+Template |  Aliz/Alice  |  Azul/Azure  |  Sea/Tea  |  Pueril/Amethyst  |
+#000000  |  #1a1a1a     |  #14161b     |  #141a1b  |  #1a1a1a          |
+#101010  |  #222222     |  #1b1d24     |  #1b2224  |  #222222          |
+#202020  |  #262626     |  #22252c     |  #222b2e  |  #262626          |
+#303030  |  #2b2b2b     |  #292b32     |  #293032  |  #2b2b2b          |
+#404040  |  #323232     |  #303238     |  #303739  |  #323232          |
+
+---| FG HUE |---
+Template |  Everything  |
+#ffffff  |  #d7d7d7     |
+
+---| AC HUE |---
+Template |  Aliz     |  Alice    |  Azul     |  Azure    |
+#aa0000  |  #bc3f39  |  #a21b1b  |  #217dbb  |  #23446e  |
+#ff0000  |  #f0554c  |  #ef2929  |  #3498db  |  #3465a4  |
+
+Template |  Sea      |  Tea      |  Pueril   |  Amethyst |
+#aa0000  |  #00906f  |  #4e8e00  |  #6e8e4e  |  #5a3a6a  |
+#ff0000  |  #2eb398  |  #73d216  |  #97bb72  |  #75507b  |
+
