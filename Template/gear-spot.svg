@@ -7,7 +7,7 @@
    viewBox="0 0 507.99999 285.75001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    sodipodi:docname="gear-spot.svg"
    inkscape:export-filename="D:\Git\Matcha-wallpapers\Test1a.png"
    inkscape:export-xdpi="96"
@@ -67,9 +67,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="994.49517"
-     inkscape:cy="747.0078"
+     inkscape:zoom="0.37528313"
+     inkscape:cx="2051.7842"
+     inkscape:cy="1292.3576"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,9 +78,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0" />
   <metadata
@@ -194,7 +194,7 @@
          ry="151.15482"
          rx="151.1548" />
       <ellipse
-         style="display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.584165;stroke-opacity:1"
+         style="display:inline;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.584165;stroke-opacity:1"
          id="path15286"
          cx="982.73633"
          cy="537.30878"
@@ -307,7 +307,7 @@
          d="m 959.55267,523.89839 23.2288,-13.36033 23.15283,13.58806 -0.076,26.56883 -23.30473,13.2085 -23.001,-13.36032 z"
          id="path45388" />
       <path
-         style="display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.432949px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="display:inline;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.432949px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 966.45977,527.89023 16.2458,-9.26574 16.2411,9.43979 0.2684,18.56292 -16.6169,9.48045 -16.1736,-9.3731 z"
          id="path48075"
          sodipodi:nodetypes="ccccccc" />
