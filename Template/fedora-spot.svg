@@ -7,7 +7,7 @@
    viewBox="0 0 507.99999 285.75001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    sodipodi:docname="fedora-spot.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -66,8 +66,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="1076.4286"
-     inkscape:cy="610.71428"
+     inkscape:cx="720"
+     inkscape:cy="610"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -76,9 +76,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0" />
   <metadata
@@ -151,7 +151,7 @@
       <path
          d="m 893.92761,551.60229 c 0,0 64.56509,0 64.56509,0 0,0 0,64.56512 0,64.56512 0,35.63991 -28.9252,64.56505 -64.56509,64.56505 -35.63993,0 -64.56509,-28.92514 -64.56509,-64.56505 0,-35.63994 28.92516,-64.56512 64.56509,-64.56512 z"
          id="in"
-         style="fill:#ff000f;fill-opacity:1;stroke:#aa0000;stroke-width:39.418;stroke-opacity:0.698039" />
+         style="fill:#ff0000;fill-opacity:1;stroke:#aa0000;stroke-width:39.418;stroke-opacity:0.698039" />
       <use
          transform="rotate(180,958.3371,551.66508)"
          id="finity"
